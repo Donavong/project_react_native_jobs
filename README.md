@@ -1,20 +1,10 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# Build and Deploy a React Native App 
+download the Expo Go app on your mobile device 
+I have added the QR codes for both android and IOS  in the folder under assets. 
+I also added the links below if you are having trouble still just follow the directions below in your terminal. 
+Open my project in your terminal and run "expo-cli start --tunnel" in the terminal and scan the QR code on your phone and it will automatically run on the Expo Go app.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
-
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Links:
+Andiod:exp://u.expo.dev/update/53fb6aa8-bf12-499f-8176-64d95833fae3
+IOS:exp://u.expo.dev/update/8efbcf67-37ae-43e0-9444-d97ef9466658
